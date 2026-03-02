@@ -1,4 +1,4 @@
-Q)Which tokenizer did you choose (NLTK or spaCy) and why?
+# Q)Which tokenizer did you choose (NLTK or spaCy) and why?
 
 selected spaCy for tokenization.
 
@@ -10,36 +10,36 @@ It integrates tokenization, lemmatization, and POS tagging in a single pipeline.
 
 Since dataset size is moderate (~thousands of reviews), performance overhead is negligible.
 
-Q)Did you use stemming or lemmatization for topic modeling? Why?
+# Q)Did you use stemming or lemmatization for topic modeling? Why?
 
 I have Choosen lemmatization over stemming.
 
 Comparison:
 Technique	      Output Example	     
-Stemming	     “caring” → “car”	 ----> meaning Chnaged 
+Stemming	     “caring” → “car”	 ----> meaning Changed 
 Lemmatization	“caring” → “care”	 ----> preserves Context 
 
 
 Two text versions were created:
 
-text_for_topics
+# text_for_topics
 
-Lowercased
+  Lowercased
 
-Stopwords removed
+  Stopwords removed
 
-Lemmatized
+  Lemmatized
 
-Punctuation removed
+  Punctuation removed
 
-text_for_sentiment
+# text_for_sentiment
 
-Minimal cleaning
+   Minimal cleaning
 
-Stopwords kept
+   Stopwords kept
 
-No lemmatization
+   No lemmatization
 
-Punctuation preserved
+   Punctuation preserved
 
 This separation ensures preprocessing aligns with the downstream modeling objective.
