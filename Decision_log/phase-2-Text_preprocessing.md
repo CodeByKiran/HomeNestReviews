@@ -8,8 +8,6 @@ spaCy provides context-aware tokenization, handling contractions and edge cases 
 
 It integrates tokenization, lemmatization, and POS tagging in a single pipeline.
 
-Since dataset size is moderate (~thousands of reviews), performance overhead is negligible.
-
 # Q)Did you use stemming or lemmatization for topic modeling? Why?
 
 I have Choosen lemmatization over stemming.

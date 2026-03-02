@@ -104,7 +104,7 @@ It does not understand sequence.
 For example, “not good” and “good” are treated independently unless bigrams are explicitly included.
 
 No contextual understanding
-It cannot detect sarcasm, nuance, or intent.
+It cannot detect sarcasm, intent.
 
 Sensitive to preprocessing choices
 Lemmatization, stopword removal, and n-gram settings significantly affect results.
