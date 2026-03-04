@@ -8,8 +8,6 @@ def extractive_summary(text, num_sentences=1):
 
     doc = nlp(text)
 
-    # Score sentences by word frequency
-
     word_freq = {}
 
     for token in doc:
