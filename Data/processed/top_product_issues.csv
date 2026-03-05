@@ -1,0 +1,8 @@
+topic_label,negative_review_count,top_words
+Mixed Product Category,251,"[('the', 160), ('item', 125), ('finally', 125), ('after', 117), ('it', 111), ('2', 84), ('My', 83), ('wrong', 80), ('twice.', 80), ('When', 80)]"
+Furniture & Frames,185,"[('The', 134), ('and', 100), ('the', 100), ('leaks,', 70), ('smells', 70), ('like', 70), ('burnt', 70), ('plastic,', 70), ('manual', 70), ('is', 70)]"
+Daily Use Satisfaction,159,"[('is', 135), ('but', 135), ('the', 135), ('was', 135), ('feelings', 87), ('about', 87), ('Setup', 87), ('easy', 87), ('performance', 87), ('Mixed', 84)]"
+Mattress & Comfort,155,"[('The', 117), ('a', 89), ('from', 89), ('of', 62), ('money.', 62), ('motor', 62), ('makes', 62), ('horrible', 62), ('grinding', 62), ('noise', 62)]"
+Product Accuracy,150,"[('The', 135), ('4', 86), ('worked', 80), ('for', 80), ('exactly', 80), ('days', 80), ('then', 80), ('completely', 80), ('stopped.', 80), ('Total', 80)]"
+Kitchen & Appliance Products,106,"[('after', 93), ('3', 83), ('1', 83), ('overheated', 74), ('and', 74), ('stopped', 74), ('working', 74), ('uses.', 74), ('Safety', 74), ('hazard.', 74)]"
+Recommendation & Value,68,"[('I', 61), ('wanted', 61), ('to', 61), ('love', 61), ('this', 61), ('but', 61), ('the', 61), ('died', 61), ('in', 61), ('week', 61)]"
